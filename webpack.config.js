@@ -222,7 +222,7 @@ module.exports = (env, argv) => ({
             short_name: 'Stremio',
             description: 'Freedom To Stream',
             background_color: '#161523',
-            theme_color: '#2a2843',
+            theme_color: '#000000',
             orientation: 'any',
             display: 'standalone',
             display_override: ['standalone'],
